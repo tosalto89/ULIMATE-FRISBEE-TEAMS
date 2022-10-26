@@ -1,0 +1,29 @@
+/*Styling the header section*/
+header{
+  background-color: #B2B2B2;
+}
+
+h1{
+  text-align: center;
+  text-transform: uppercase;
+  /*font-variant: small-caps;*/
+  color: #FFFFFF;
+}
+
+a{
+  background-color: #C5C5C5;
+  color: #000000;
+}
+/*remove all images*/
+
+img{
+  display: none;
+}
+/* styling the last section*/
+section{
+  background-color: #7F7F7F;
+}
+h2{
+  text-transform: uppercase;
+  color: #00047F;
+}

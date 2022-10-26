@@ -1,0 +1,62 @@
+body{
+ background-color: #B3B3B3;
+ font-family: lato;
+}
+
+header{
+    text-align: center;
+    background-color: #02B7EA;
+    margin-bottom: 20px;
+
+}
+
+h1{
+    font-variant: small-caps;
+    color: #FFFFFB ;
+}
+nav li{
+    display: inline-block;
+}
+  nav {
+    font-family: Arial, "Times New Roman", serif;
+    font-size: 150%;
+    padding-bottom: 1px;
+}
+
+section{
+    display: inline-block;
+    float: left;
+    width: 30%;
+    margin: 0 2% 2% 1%;
+    
+}
+.myHome{
+    font-style: italic;
+}
+h2{
+    color:#666666;
+    background-color:#02B7EA;
+}
+
+footer{
+    background-color: #02B7EA;
+    height: 100px;
+    clear: both;
+    
+}
+
+img{
+    height: 30px;
+    width: 70px;
+}
+
+  meter {
+    --high: #3285DC;
+    --sub-optimum: gold;
+    --sub-sub-optimum: crimson;
+    width: 10%;
+  }
+
+  .myHome {
+    margin: 0;
+  }
